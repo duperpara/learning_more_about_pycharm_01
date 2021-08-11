@@ -9,3 +9,4 @@ if __name__ == '__main__':
     print(obj.dict["z"])
 
     print("Yay!! new update!")
+    input()
