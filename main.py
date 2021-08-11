@@ -25,7 +25,5 @@ if __name__ == '__main__':
     print(obj.dict["x"])
     print(obj.dict["y"])
     print(obj.dict["z"])
-    #
-    # TODO: rest of the code
-    # TODO: rest of the code
-    # TODO: rest of the code
+
+    print("Yay!! new update!")
